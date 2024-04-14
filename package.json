@@ -1,0 +1,26 @@
+{
+  "name": "webcrawlerhttp",
+  "version": "1.0.0",
+  "description": "Project to learn HTTP networking",
+  "main": "main.js",
+  "scripts": {
+    "start": "node --no-warnings main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flexy69905/webcrawlerhttp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flexy69905/webcrawlerhttp/issues"
+  },
+  "homepage": "https://github.com/flexy69905/webcrawlerhttp#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jsdom": "^24.0.0"
+  }
+}
